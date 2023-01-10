@@ -1,0 +1,3 @@
+bu kodlarýn calýsabilmesi için veri tabanýnda blog adýnda bir veritabaný olusturun ve blog.sql 
+adýndaki dosyayý olusturmus oldugunuz blog veritabanýný sectikten sonra içe aktarý secin ve blog.sql 
+dosyasýný yukleyin bukadar kodlar calýsýcaktýr.. bizi izlemeye devam edin
